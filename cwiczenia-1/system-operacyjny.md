@@ -6,8 +6,8 @@ Charakterystyka systemu operacyjnego
 
 | Charakterystyka | wartość           | komentarzu |
 | ------------- |:-------------:| -----:|
-| nazwa      | linux | centos 7 |
-| program (parametry sieci)      | niewiem |  |
+| nazwa      | linux | debian 4.8.0-7 |
+| program (parametry sieci)      | ifconfig |  |
 
 
 Konfiguracja połączenia sieciowego
@@ -15,10 +15,10 @@ Konfiguracja połączenia sieciowego
 
 | Parametr | wartość           | komentarzu |
 | ------------- |:-------------:| -----:|
-| Adres IP      | XX.XX.XX.XX | przydzielony przez DHCP |
-| Maska podsieci      |  |  |
+| Adres IP      | 10.0.2.15 | przydzielony przez DHCP |
+| Maska podsieci      | 255.255.255.0 |  |
 | Brama      |  |  |
-| DNS 1      |  |  |
+| DNS 1      | 192.168.0.1 |  |
 | DNS 2      |  |  |
 
 Schemat sieci
