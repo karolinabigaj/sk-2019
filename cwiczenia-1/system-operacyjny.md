@@ -23,8 +23,9 @@ Konfiguracja połączenia sieciowego
 
 Schemat sieci
 -------------
-
+![alt schemat](siec.jpg)
 aby załączyć obrazek 
+
 
 ```markdown
 ![alt schemat](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)![alt schemat](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
