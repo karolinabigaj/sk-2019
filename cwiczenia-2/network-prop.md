@@ -2,8 +2,10 @@ Ustawianie parametrów sieci
 ---------------------------
 
 1. na 1 z komputerów zainstaluj oprogramowanie ``http-chat`` dostępne pod adresem ``https://github.com/jkanclerz/http-chat``
-apt-get install git https://github.com/jkanclerz/http-chat
-git clone 
+apt-get install git 
+git clone https://github.com/jkanclerz/http-chat
+apt-get install python
+python httpchat.py
 
 Wejściowe parametry sieci
 -------------------------
@@ -81,10 +83,10 @@ Warto wiedzieć
 -------------------------
 | Parametr | wartość | komentarz(opcionalny) |
 | ------------- |:-------------:| -----:|
-| Lokalizacja pliku z konfiguracją sieci| | |
-| UP -> Wyłączenie interfejsu sieciowego| | |
-| DOWN -> Włączenie interfejsu sieciowego| | |
-| Sprawdzenie obecnych parametrów | | |
-| lista wszystkich interfejsów | | |
+| Lokalizacja pliku z konfiguracją sieci|  | |
+| UP -> Wyłączenie interfejsu sieciowego| ifup| |
+| DOWN -> Włączenie interfejsu sieciowego| ifdpwn| |
+| Sprawdzenie obecnych parametrów | ip a | |
+| lista wszystkich interfejsów | ip a | |
 | Które interfejsy jakie porty słuchają | | |
 
