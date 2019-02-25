@@ -16,8 +16,8 @@ Wejściowe parametry sieci
 | MASKA  | 255.255.255.0 | |
 |   |  | |
 | PC 2  |  | |
-| IP - address  | 192.168.255.5 | |
-| MASKA  | 255.255.0.0 | |
+| IP - address  | 192.168.10.5 | |
+| MASKA  | 255.255.255.0 | |
 
 Weryfikacja połączenia
 
