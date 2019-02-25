@@ -21,12 +21,12 @@ Weryfikacja połączenia
 
 Polecenie
 ```
-ping
+curl
 ```
 
 Efekt
 ```
-Wyświetla się komunikat pokazujący, iż połączenie zostało nawiązane
+Komputery dostają od siebie komunikaty
 ```
 
 Statyczna konfiguracja parametrów połączenia
