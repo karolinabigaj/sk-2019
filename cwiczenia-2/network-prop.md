@@ -1,11 +1,9 @@
 Ustawianie parametrów sieci
 ---------------------------
 
-![alt text][network]
-
-[network]: ./network.png "Logo Title Text 2"
-
 1. na 1 z komputerów zainstaluj oprogramowanie ``http-chat`` dostępne pod adresem ``https://github.com/jkanclerz/http-chat``
+apt-get install git https://github.com/jkanclerz/http-chat
+git clone 
 
 Wejściowe parametry sieci
 -------------------------
@@ -23,10 +21,12 @@ Weryfikacja połączenia
 
 Polecenie
 ```
+ping
 ```
 
 Efekt
 ```
+Wyświetla się komunikat pokazujący, iż połączenie zostało nawiązane
 ```
 
 Statyczna konfiguracja parametrów połączenia
