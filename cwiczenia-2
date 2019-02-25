@@ -39,7 +39,7 @@ Wejściowe parametry sieci
 | MASKA  | 255.255.255.0 | |
 |   |  | |
 | PC 2  |  | |
-| IP - address  | 172.16.100.100 | |
+| IP - address  | 192.168.10.5 | |
 | MASKA  | 255.255.0.0 | |
 
 Weryfikacja połączenia
@@ -58,12 +58,12 @@ Nowa statyczna konfiguracja
 | Parametr | wartość | komentarz(opcionalny) |
 | ------------- |:-------------:| -----:|
 |   PC 1 |  
-| IP - address  | 192.168.10.4  | |
-| MASKA  | 255.255.255.0 | |
+| IP - address  |  | |
+| MASKA  |  | |
 |   |  | |
 | PC 2  |  | |
-| IP - address  | 192.168.10.5 | |
-| MASKA  | 255.255.255.0 | |
+| IP - address  |  | |
+| MASKA  |  | |
 
 Weryfikacja połączenia
 
