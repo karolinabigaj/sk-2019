@@ -83,9 +83,9 @@ Warto wiedzieć
 -------------------------
 | Parametr | wartość | komentarz(opcionalny) |
 | ------------- |:-------------:| -----:|
-| Lokalizacja pliku z konfiguracją sieci|  | |
+| Lokalizacja pliku z konfiguracją sieci| /etc/network/interfaces | |
 | UP -> Wyłączenie interfejsu sieciowego| ifup| |
-| DOWN -> Włączenie interfejsu sieciowego| ifdpwn| |
+| DOWN -> Włączenie interfejsu sieciowego| ifdown| |
 | Sprawdzenie obecnych parametrów | ip a | |
 | lista wszystkich interfejsów | ip a | |
 | Które interfejsy jakie porty słuchają | | |
