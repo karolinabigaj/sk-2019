@@ -4,10 +4,10 @@ Ustawianie parametrów sieci ip
 * stan interfejsu
     * interfejs up
     * interfejs down
-* adresacja
-    * dodaj adres
-    * zmień adres
-    * usuń adres
+* adresacja ip addr show dev enp0s3
+    * dodaj adres ip a a 172.16.1/24 dev enp0s3
+    * zmień adres 
+    * usuń adres ip addr del 172.16.100.10/24 dev enp0s3
 * routing
     * dodaj trasę default
     * dodaj trasę przez bramę
@@ -29,8 +29,8 @@ ip
 |               |   ``ip addr``                 | informacja o wszystkich interfejsach              |
 |               |   ``ip addr show dev enp0s3`` | informacja o konkretnym interfejsie               |
 |   ``link``    |                               |  |
-|               |   ``ip line set enp0s3 up``                 |włącza interfejs              |
-|               |   ``ip line set enp0s3 down`` | wyłącza interfejs               |
+|               |   ``ip link set enp0s3 up``                 |włącza interfejs              |
+|               |   ``ip link set enp0s3 down`` | wyłącza interfejs               |
 |   ``route``   |  | |
 |   ``maddr``   |  | |
 |   ``neigh``   |  | |
