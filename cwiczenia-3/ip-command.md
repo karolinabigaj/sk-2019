@@ -38,9 +38,6 @@ ip
 
 Zadanie
 ------------
-
-![zadanie 3](cwiczenia3.svg)
-
 1.
    * Przygotuj konfigurację sieci zgodnie z powyższym diagramem, 
    * Przetestuj połączenie poleceniem ping
@@ -52,5 +49,10 @@ Zadanie
    * Skonfiguruj ``PC3`` zgodnie z poniższym diagramem
    * Zweryfkuj połączenie kożystając z przeglądarki, odwiedzając graficzny interfejs ``HTTP CHAT`` pod adresem ``http://172.16.100.10:8888``
    * Przygotuj dokumentację pisemno obrazkową z wykonania zadania w formacie ``markdown`` zamieść ją w serwisie ``github.com`` obok obocnego tematu ``cwiczenia-3``
+   
+![zadanie 3](1.png)
+![zadanie 3](2.png)
+![zadanie 3](3.png)
 
-![zadanie 3.1](cwiczenia3.1.svg) 
+
+
