@@ -27,7 +27,7 @@ default via 172.31.16.1 dev eth0
 Zadanie
 ------------
 
-![zadanie 5](over_network.svg)
+![zadanie 5](over_network.svg.svg)
 
 1.
    * Przygotuj konfigurację sieci zgodnie z powyższym diagramem
