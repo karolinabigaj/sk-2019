@@ -60,4 +60,4 @@ Zadanie do domu
     * SWITCH
     * PC
   * Uzupełnij diagram o adresację sieci oraz poszczególnych urządzeń
-  
+  ![zadanie 5](Diagram1.dia)
