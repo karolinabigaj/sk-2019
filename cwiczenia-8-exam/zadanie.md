@@ -16,5 +16,5 @@ Zaproponuj rozwiązanie spełniające poniższe wymagania:
 | ``172.22.128.0/19`` | 172.22.159.255| 8190|
 | ``172.22.160.0/23`` | 172.22.161.255| 510|
 
-![zadanie 8](zad8.svg)
+![zadanie 8](zad8.jpg)
  
