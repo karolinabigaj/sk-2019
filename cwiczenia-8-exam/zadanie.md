@@ -17,8 +17,8 @@ Zaproponuj rozwiązanie spełniające poniższe wymagania:
 | ``172.22.160.0/23`` | 172.22.161.255| 510|
 
 ![zadanie 7](zad7.jpg)
-![pc1](pc1.jpg)
-![pc2](pc2.jpg)
-![pc3](pc3.jpg)
+![pc 1](pc1.jpg)
+![pc 2](pc2.jpg)
+![pc 3](pc3.jpg)
 
  
