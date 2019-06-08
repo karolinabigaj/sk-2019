@@ -69,4 +69,4 @@
 | ``192.168.7.24/29``    | 6| 192.168.7.31| Sieć wewnętrzna jednostki|
 | ``188.156.220.160/27``    | 30| 188.156.191.255| Sieć publiczna jednostki|
 
-![diagram](Diagram1.png)
+![diagram](show.png)
