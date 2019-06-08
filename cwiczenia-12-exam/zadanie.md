@@ -70,3 +70,9 @@
 | ``188.156.220.160/27``    | 30| 188.156.191.255| Sieć publiczna jednostki|
 
 ![diagram](show.png)
+
+1. Mamy wydieloną sieć publiczną, która zawiera router dostępowy do sieci zewnętrznej (uniwersyteckiej), serwery udostępniajace zasoby do celów dydaktycznych i promocyjnych, router sieci Wi-Fi i router główny sieci laboratoryjnych. Każde piętro posiada wydzielony router podłączony do głównego routera i od trzech do czterech routerów w salach laboratoryjnych.
+2. Każda sala laboratoryjna posiada poza swoim odrębnym routerem switch i 35 stacji roboczych.
+3. Każdy router na piętrze łącznie z głównym routerem będzie mieć ustalony statyczny adres IP, dęki któremu będzie mógł przekazywać połączenie z wewnątrz na zewnątrz. Dzięki takiemu rozwiazaniu stacje robocze będą widzieć komputery tylko ze swojej pracowni, nie zobacza ani komputerów na innych piętrach, ani tych w innych salach.
+4. Router - brama zewnętrzna udostępnia wszystkim stacjom roboczym oraz gościom z sieci Wi-Fi dostęp do zewnętrznej sieci (do Internetu). Natomiast dostęp do serwerów z sieci publicznej mają tylko urządzenia z zewnątrz oraz stacje robocze (wszystkie wiadomości z sieci Wi-Fi będą automatycznie przekierowywane na zewnątrz) i dzięki temu zapewniamy wszystkie założenia.
+5. Wyżej w tabeli mamy pokazany podział sieci na poszczególne routery, oraz wolne pule zachowane dla możliwego w przyszlości dobudowania laboratoriów na piętrze zerowym i drugim.
