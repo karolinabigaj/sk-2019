@@ -45,3 +45,21 @@
 * W specyfikacji uwzględnij wielkości sieci oraz ich adresy
 * W specyfikacji uwzględnij konfigurację tablicy routingu
 * Dokumentację graficzną stworzonej architektury przygotuj w programie ``DIA`` lub podobnym
+
+# Wykonanie
+
+| Adres sieci |  zakres hostów   | Adres Rozgłoszeniowy | Cel sieci |
+| --------- |:-------------|  :---------------|  :---------------|
+| ``192.168.0.0/22``    | 1022| 192.168.3.255| Wi-Fi Jednostki|
+| ``192.168.4.0/26``    | 62| 192.168.4.63| Laboratorium 009|
+| ``192.168.4.64/26``    | 62| 192.168.4.127| Laboratorium 013|
+| ``192.168.4.128/26``    | 62| 192.168.4.191| Laboratorium 014|
+| ``192.168.4.192/26``    | 62| 192.168.4.255| Wolna pula dla lab 017|
+| ``192.168.5.0/26``    | 62| 192.168.5.63| Laboratorium 115|
+| ``192.168.5.64/26``    | 62| 192.168.5.127| Laboratorium 116|
+| ``192.168.5.128/26``    | 62| 192.168.5.191| Laboratorium 117|
+| ``192.168.5.192/26``    | 62| 192.168.5.255| Laboratorium 122||
+| ``192.168.6.0/26``    | 62| 192.168.6.63| Laboratorium 201|
+| ``192.168.6.64/26``    | 62| 192.168.6.127| Laboratorium 202|
+| ``192.168.6.128/26``    | 62| 192.168.6.191| Laboratorium 203|
+| ``192.168.6.192/26``    | 62| 192.168.6.255| Wolna pula dla lab 204|
